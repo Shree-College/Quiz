@@ -1,0 +1,8 @@
+{
+  "env": {
+    "Connection": "mongodb://localhost:27017/QUIZ",
+    "PORT": 8000
+  },
+  "ext":"ts,json,js",
+  "watch":["src"]
+}
